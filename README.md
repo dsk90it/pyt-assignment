@@ -9,6 +9,7 @@ HTML5, CSS3, Bootstrap, jQuery
 2. Fully responsive
 
 ## Demo
-
+https://pyt-packages-v1.netlify.com/
 
 ## Deployed in Netlify
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f11d8af9-af4f-416a-a630-64a92dc9fbaa/deploy-status)](https://app.netlify.com/sites/pyt-packages-v1/deploys)
