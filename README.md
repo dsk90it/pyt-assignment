@@ -2,7 +2,10 @@
 My HTML Interview task in Pickyourtrail
 
 ## Tech Stack
-HTML5, CSS3, Bootstrap, jQuery
+- HTML 5
+- CSS 3
+- Bootstrap
+- jQuery
 
 ## Highlights
 1. No duplication of HTML in Filter Section. Mobile & Desktop are different design
